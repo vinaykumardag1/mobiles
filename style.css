@@ -64,7 +64,6 @@ p{
     background-color: red;
 }
 .mobile{
-    outline:  1px ridge whitesmoke;
     background-image: url("images/PTT.jpg") no-repeat cover;
 }
 .intro{
