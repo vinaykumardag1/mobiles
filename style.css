@@ -86,3 +86,10 @@ p{
     text-align: center;
     background: radial-gradient(square,rgb(59, 223, 220),rgb(149, 115, 115));
 }
+a{
+  background-color:yellow;
+  color:red;
+  text-decoration:none;
+  border:1px ridge aqua;
+border-radius:10px;
+}
