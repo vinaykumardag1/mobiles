@@ -52,3 +52,6 @@ function note12pro(){
 function note12proplus(){
     open("https://www.flipkart.com/search?q=redmi%20note%2012%20pro%2B&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off");
 }
+function btn(){
+    open("index2.html");
+}
