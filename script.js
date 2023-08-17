@@ -28,3 +28,27 @@ function razr40ultra(){
 function click(){
     open("https://www.youtube.com/@Prasadtechintelugu");
 }
+function noe7(){
+    open("https://www.amazon.in/s?k=iqoo+neo+7&crid=PN7G0XHXDPST&sprefix=iqoo+neo+7+%2Caps%2C327&ref=nb_sb_noss_2");
+}
+function f5(){
+    open("https://www.flipkart.com/search?q=poco+f5&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_7_4_na_na_ps&otracker1=AS_Query_OrganicAutoSuggest_7_4_na_na_ps&as-pos=7&as-type=RECENT&suggestionId=poco+f5&requestId=5974b50d-e252-4f13-a47f-e7acc3bbc61a&as-backfill=on");
+}
+function pixel6a(){
+    open("https://www.flipkart.com/search?q=pixel%20a&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off");
+}
+function realme11pro(){
+    open("https://www.flipkart.com/search?q=realme11pro%2B&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off");
+}
+function NordCE3(){
+    open("https://www.amazon.in/s?k=nord+ce+3&crid=1MCMDQCLSQG0L&sprefix=nord+ce+%2Caps%2C327&ref=nb_sb_noss_2");
+}
+function GT2(){
+    open("https://www.flipkart.com/realme-gt-2-paper-white-128-gb/p/itmac4c08a9eb2da?pid=MOBGDAT7JZRCGFMB&lid=LSTMOBGDAT7JZRCGFMBS0CG8S&marketplace=FLIPKART&q=relame+GT2&store=tyy%2F4io&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=fda89085-f6b5-4aea-8aed-e76ff6fe158e.MOBGDAT7JZRCGFMB.SEARCH&ppt=hp&ppn=homepage&ssid=cle4ujly8g0000001692253316069&qH=8f429f033d0fb4a7");
+}
+function note12pro(){
+    open("https://www.flipkart.com/search?q=redmi%20note%2012%20pro&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off");
+}
+function note12proplus(){
+    open("https://www.flipkart.com/search?q=redmi%20note%2012%20pro%2B&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off");
+}

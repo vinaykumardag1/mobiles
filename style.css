@@ -67,6 +67,7 @@ p{
     background-image: url("images/PTT.jpg") no-repeat cover;
 }
 .intro{
+    outline: 1px ridge blue;
     background-color: rgb(239, 246, 246);
 }
 #head{
@@ -79,4 +80,9 @@ p{
     color: brown;
     text-overflow: ellipsis;
     text-decoration: double;
+}
+.mobile{
+    outline: 1px solid yellow;
+    text-align: center;
+    background: radial-gradient(square,rgb(59, 223, 220),rgb(149, 115, 115));
 }
