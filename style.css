@@ -50,7 +50,6 @@ p{
     text-transform: none;
     text-shadow: 4px 4px 44px 40px red;
     color: red;
-    
     font-weight: 900;
 }
 #Subscribe{
@@ -87,9 +86,9 @@ p{
     background: radial-gradient(square,rgb(59, 223, 220),rgb(149, 115, 115));
 }
 #link{
-  background-color:yellow;
+  background-color:aqua;
   color:red;
   text-decoration:none;
   border:1px ridge aqua;
-  border-radius:10px;
+  border-radius:10%;
 }
