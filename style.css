@@ -82,6 +82,5 @@ p{
 }
 .mobile{
     outline: 1px solid yellow;
-    text-align: center;
     background: radial-gradient(square,rgb(59, 223, 220),rgb(149, 115, 115));
 }
