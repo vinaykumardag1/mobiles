@@ -82,7 +82,7 @@ p{
     text-decoration: double;
 }
 .mobile{
-    outline: 1px solid yellow;
+   
     background: radial-gradient(square,rgb(59, 223, 220),rgb(149, 115, 115));
 }
 a{
